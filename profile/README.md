@@ -15,6 +15,6 @@
 [Sepolicy](https://github.com/mondrian-next/device_xiaomi_sepolicy) - device/xiaomi/sepolicy
 
 ## Side Note
-* Currently, bringup for trees is done for EvolutionX project, please respectfully adapt for the project that you are planning to use.
+* Currently, bringup for trees is done for EvolutionX/Crdroid (los branch) Project, please respectfully adapt for the project that you are planning to use.
 * Supported build types: user (userbuild) [ENG is not supported, will crash Zygote]
 
